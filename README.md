@@ -7,4 +7,5 @@
 5.  Agua
 6.  Arroz (El arroz es opcional)
 
-
+## Pasos para la receta:
+1. Lavar el pollo
